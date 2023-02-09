@@ -32,7 +32,7 @@ function App() {
       <Box sx={{ width: '100vw', background: '#e2e8f0' }}>
         <Box
           sx={{
-            width: '100ve',
+            width: '100vw',
             height: '40vh',
             background: '#f5f5f5',
             display: 'flex',
@@ -45,7 +45,14 @@ function App() {
             Hello! I'm <p className='text-gradient'> Samson</p>
           </h1>
 
-          <Typography sx={{ mt: 0, color: '#828282' }}>
+          <Typography
+            sx={{
+              mt: 0,
+              color: '#828282',
+              fontSize: { xs: '10px', md: '20px' },
+              margin: 2,
+            }}
+          >
             Aspiring full stack developer with a passion for coding and design.
             Here are some of my projects
           </Typography>
