@@ -9,7 +9,7 @@ let projects = [
   },
   {
     title: 'Pet SOS',
-    deployedLink: 'https://lost-and-found-35cde.web.app/feed',
+    deployedLink: 'https://lost-and-found-35cde.web.app',
     imgSrc: '/petSOS.png',
     description:
       'Lost and found app for reporting lost pets.',
