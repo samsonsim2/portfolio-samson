@@ -13,7 +13,7 @@ let projects = [
     imgSrc: '/petSOS.png',
     description:
       'Lost and found app for reporting lost pets.',
-    techStack: ['React,Tailwind,YupForm, Firebase'],
+    techStack: ['React','Tailwind','YupForm', 'Firebase'],
   },
   {
     title: 'Monster-x-lab',
