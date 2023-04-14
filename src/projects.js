@@ -8,6 +8,14 @@ let projects = [
     techStack: ['MERN'],
   },
   {
+    title: 'Pet SOS',
+    deployedLink: 'https://lost-and-found-35cde.web.app/feed',
+    imgSrc: '/petSOS.png',
+    description:
+      'Lost and found app for reporting lost pets.',
+    techStack: ['React,Tailwind,YupForm, Firebase'],
+  },
+  {
     title: 'Monster-x-lab',
     deployedLink: 'https://monster-xlab-client.vercel.app/',
     imgSrc: '/monsterxlab.jpg',
